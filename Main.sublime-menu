@@ -1,0 +1,18 @@
+[
+    {
+        "id": "easy_html",
+            "caption": "Easy HTML",
+            "children": [
+            {
+                "id": "eh_new_html_email",
+                "caption": "New HTML Email",
+                "command": "easy_html_new_email"
+            },
+//            {
+//                "id": "update_templates",
+//                "caption": "Update templates",
+//                "command": "easy_html_update_templates"
+//            }
+        ]
+    }
+]
